@@ -14,10 +14,10 @@ body {
   justify-content: center;
 }
 
-/* h1, h2,h3,h4,h5,h6 {
+h1, h2,h3,h4,h5,h6 {
   color: var(--white);
   font-family: sans-serif, 'Roboto';
 }:hover{
   color: var(--lightGray);
   font-family: sans-serif,'Roboto';
-} */
+}
