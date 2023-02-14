@@ -1,0 +1,23 @@
+:root {
+  --primary: #0D2436;
+  --secondary: #009B86;
+  --tertiary: #57e9d6;
+  --white: #FFFFFF;
+  --lightGray:#CCCCCC;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif,'Roboto';
+  background-color: var(--primary);
+  display: flex;
+  justify-content: center;
+}
+
+/* h1, h2,h3,h4,h5,h6 {
+  color: var(--white);
+  font-family: sans-serif, 'Roboto';
+}:hover{
+  color: var(--lightGray);
+  font-family: sans-serif,'Roboto';
+} */
