@@ -1,5 +1,5 @@
 import { createAsyncThunk } from "@reduxjs/toolkit";
-import API, { ballotData } from "../../Api/Api";
+import API from "../../Api/Api";
 export const SLICE_NAME = "ballots";
 export const ACTION_TYPES = {
   GET_BALLOTS_LIST: `${SLICE_NAME}/GET_BALLOTS_LIST`,
