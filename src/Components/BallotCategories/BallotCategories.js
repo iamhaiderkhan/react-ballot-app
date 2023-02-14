@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import map from "lodash/map";
 import "./styles.css";
 import BallotVoteCard from "../BallotVoteCard/BallotVoteCard";
